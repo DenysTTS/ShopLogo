@@ -25,6 +25,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="7d9b6850-b3c9-402d-a1ad-97eb3eac8579" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -55,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655234774972</updated>
-      <workItem from="1655234777477" duration="3008000" />
+      <workItem from="1655234777477" duration="3328000" />
     </task>
     <task id="LOCAL-00001" summary="FrameworkStarted&#10;First Feature File Created">
       <created>1655237781362</created>
@@ -64,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655237781362</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="BasePageCreated&#10;LocatorsAdded">
+      <created>1655238924413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655238924413</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FrameworkStarted&#10;First Feature File Created" />
-    <option name="LAST_COMMIT_MESSAGE" value="FrameworkStarted&#10;First Feature File Created" />
+    <MESSAGE value="BasePageCreated&#10;LocatorsAdded" />
+    <option name="LAST_COMMIT_MESSAGE" value="BasePageCreated&#10;LocatorsAdded" />
   </component>
 </project>
